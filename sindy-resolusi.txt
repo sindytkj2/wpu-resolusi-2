@@ -1,0 +1,7 @@
+Haii viona, salam kenal nama saya sindy dari Nganjuk
+
+Resolusi Saya :
+- Membuat minimal 3 proyek website sederhana (portofolio,blog,dll).
+- Belajar dasar HTML, CSS, dan JavaScript sampai paham.
+- Konsisten latihan coding minimal 1 jam setiap hari.
+- Belajar framework seperti React atau Laravel secara bertahap.
